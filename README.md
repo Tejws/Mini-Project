@@ -1,2 +1,2 @@
 Mini Projects
-For Python and C# ,php languag
+For Python and C# ,php lang
